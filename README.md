@@ -6,5 +6,7 @@ up as cards for future use. Currently there is only the one project to
 display. 
 * `index.html` , `portfolio.html`, and `contact.html` were all created
 * nav bar installed and set up with all links working
+* background image added
+* sticky footer added
 * bootstrap responsive layout ultilized
 
