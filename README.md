@@ -8,5 +8,6 @@ display.
 * nav bar installed and set up with all links working
 * background image added
 * sticky footer added
-* bootstrap responsive layout ultilized
+* linked in and personal site added to footer using icons from fontawesome css. 
+* bootstrap responsive layout ultilized.
 
